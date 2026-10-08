@@ -1,0 +1,4 @@
+shipment_id,action,cost,delivery_delay_days,feasible,recommendation_score
+SHP-1000,Secondary Supplier,4990.24,4.2,True,77.02
+SHP-1000,Standard Shipping,4536.58,7.0,True,71.16
+SHP-1000,Air Freight,11341.46,2.1,True,66.4
